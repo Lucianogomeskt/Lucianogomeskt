@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats & 🧑‍💻 Most Used Languages
 
+## 📊 GitHub Stats & 🧑‍💻 Most Used Languages
+
 <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Luciano Gomes' GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianogomeskt&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Luciano Gomes' GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianogomeskt&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </div>
 
 ---
