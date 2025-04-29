@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 ![Prisma.io](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=fff)
 
+## 📊 GitHub Stats & 🧑‍💻 Most Used Languages
 
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Luciano Gomes' GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianogomeskt&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
 
-## 📊 GitHub Stats
-![Luciano Gomes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 🧑‍💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianogomeskt&layout=compact&theme=radical)
 ---
 
 _Sinta-se à vontade para explorar meus projetos!_
