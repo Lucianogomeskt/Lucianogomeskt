@@ -33,13 +33,6 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianogomeskt&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucianogomeskt&theme=radical)
-
-
-
-
 ---
 
 _Sinta-se à vontade para explorar meus projetos!_
