@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 📚 Atualmente estudando: JavaScript e Node.js
 
 ## 🌐 Me encontre por aí:
-- [LinkedIn](https://www.linkedin.com/feed/)
+- [LinkedIn](https://www.linkedin.com/in/luciano-gomes-aa3b7b219/)
 
 ## 🔧 Tecnologias que uso:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
