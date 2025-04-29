@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucianogomeskt&theme=radical)
 
-## 📅 GitHub Activity Graph
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Lucianogomeskt&theme=radical)
 
 
 
