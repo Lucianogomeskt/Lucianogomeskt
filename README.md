@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 
+
 ## 📊 GitHub Stats
 ![Luciano Gomes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
 
 ## 📅 GitHub Activity Graph
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Lucianogomeskt&theme=radical)
+
 
 
 ---
