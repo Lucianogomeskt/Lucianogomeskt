@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Olá! Eu sou o Luciano Gomes
-
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 🎯 Desenvolvedor em constante aprendizado  
 🚀 Focado em Front-end, mas com paixão por aprender novas tecnologias  
 📚 Atualmente estudando: JavaScript e Node.js
