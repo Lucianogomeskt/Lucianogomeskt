@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=fff)
 
 ## 📊 GitHub Stats & 🧑‍💻 Most Used Languages
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Luciano Gomes' GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianogomeskt&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-</div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianogomeskt&layout=compact&theme=radical" />
+</div>
 ---
 
 _Sinta-se à vontade para explorar meus projetos!_
