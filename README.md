@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou o Luciano Gomes
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-🎯 Desenvolvedor em constante aprendizado  
-🚀 Focado em Front-end, mas com paixão por aprender novas tecnologias  
-📚 Atualmente estudando: JavaScript e Node.js
+ Desenvolvedor em constante aprendizado  
+ Focado em Front-end, mas com paixão por aprender novas tecnologias  
+ Atualmente estudando: JavaScript e Node.js
 
 ## 🌐 Me encontre por aí:
 - [LinkedIn](https://www.linkedin.com/in/luciano-gomes-aa3b7b219/)
@@ -16,8 +16,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![Prisma.io](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=fff)
-
-## 📊 GitHub Stats & 🧑‍💻 Most Used Languages
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
