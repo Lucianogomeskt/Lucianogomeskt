@@ -17,10 +17,16 @@
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=fff)
 
 ## 🌐 Me encontre por aí:
-<div style="position: absolute; left: 10px; top: 50%;">
+
+<div style="position: absolute; left: 10px; top: 50%; display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/luciano-gomes-aa3b7b219/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50">
   </a>
+
+  <a href="mailto:lucianogomes749@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50">
+  </a>
 </div>
+
 
 
