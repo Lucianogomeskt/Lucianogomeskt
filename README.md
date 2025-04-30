@@ -1,12 +1,11 @@
 # 👋 Olá! Eu sou o Luciano Gomes
 
- Desenvolvedor em constante aprendizado  
- Focado em Front-end, mas com paixão por aprender novas tecnologias  
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianogomeskt&layout=compact&theme=radical" />
+  <a href="https://github.com/Lucianogomeskt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucianogomeskt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianogomeskt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
 ## 🔧 Tecnologias que uso:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
@@ -18,4 +17,9 @@
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=fff)
 
 ## 🌐 Me encontre por aí:
-- [LinkedIn](https://www.linkedin.com/in/luciano-gomes-aa3b7b219/)
+ <div align="center">
+  <a href="https://www.linkedin.com/in/luciano-gomes-aa3b7b219/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50">
+  </a>
+</div>
+
