@@ -23,4 +23,3 @@
 </div>
 
 
-_Sinta-se à vontade para explorar meus projetos!_
