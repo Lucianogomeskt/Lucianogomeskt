@@ -23,10 +23,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50">
   </a>
 
-  <a href="mailto:lucianogomes749@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50">
-  </a>
-</div>
 
 
 
