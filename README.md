@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Luciano Gomes
+# 🖐🏾 Olá! Eu sou o Luciano Gomes
 
 <div align="center">
   <a href="https://github.com/Lucianogomeskt">
