@@ -14,7 +14,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![Prisma.io](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=fff)
 
 ## 🌐 Me encontre por aí:
 
